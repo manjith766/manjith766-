@@ -136,13 +136,20 @@ I'm a **Java Full Stack Developer** with a strong focus on backend systems, secu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manjith766&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Manjith's GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjith766&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=manjith766&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Manjith's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjith766&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manjith766&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manjith766&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
