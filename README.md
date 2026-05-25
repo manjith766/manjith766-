@@ -169,12 +169,16 @@ I'm a **Java Full Stack Developer** with a strong focus on backend systems, secu
 ## 📌 Featured Project
 
 ### 🛍️ Multi-Vendor E-Commerce Backend System
+![Status](https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java_17-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-> A comprehensive, production-ready backend with advanced RBAC, JWT authentication, and intelligent product filtering.
+> ✅ **Fully completed** production-ready backend system for a multi-vendor e-commerce platform with advanced RBAC, JWT authentication, and intelligent product filtering.
 
 | Feature | Detail |
 |---|---|
-| 🔗 REST APIs | 20+ endpoints with JSR 380 validation |
+| 🔗 REST APIs | 20+ completed endpoints with JSR 380 validation |
 | 👥 RBAC | Customer / Seller / Admin role hierarchy |
 | 🔐 Auth | JWT with refresh token rotation |
 | 🛒 Cart → Order | End-to-end workflow with inventory sync |
@@ -182,6 +186,8 @@ I'm a **Java Full Stack Developer** with a strong focus on backend systems, secu
 | 🔍 Smart Search | JPA Specifications for dynamic filtering |
 | 📄 Data Retrieval | Pagination, sorting, and multi-filter support |
 | 🚨 Error Handling | Global exception handler with custom strategies |
+| 🏗️ Architecture | Clean layered architecture — Controller → Service → Repository |
+| 🔒 Security | Spring Security + AES Encryption + Input Validation |
 
 **Stack:** `Java 17` · `Spring Boot` · `Spring Security` · `JPA/Hibernate` · `MySQL` · `Maven`
 
